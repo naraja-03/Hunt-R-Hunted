@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+	<title>New Project</title>
+	<style>
+		.s0 { fill: none;stroke: #808080;stroke-miterlimit:100;stroke-width: 16 } 
+	</style>
+	<path id="Shape 4" class="s0" d="m72.3 840.4h936v-234h-936z"/>
+	<path id="Shape 5" class="s0" d="m72.3 372.4l936 7v227h-936z"/>
+	<path id="Shape 3" class="s0" d="m540 72l-234 936h468z"/>
+	<path id="Shape 1" class="s0" d="m540 72l-468 936h936z"/>
+	<path id="Shape 2" class="s0" d="m72 540"/>
+</svg>
